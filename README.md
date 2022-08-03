@@ -14,3 +14,34 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Hello world! 👋
+
+My name is Saad Salman, and I'm a computer science student at Loyola Marymount University with an interest in artificial intelligence and computer graphics. 
+
+***
+
+### 📈 GitHub Stats
+
+<a href="https://github.com/thesaadsalman?tab=repositories">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thesaadsalman&theme=nightowl&langs_count=3&hide=html" />
+</a>
+<a href="https://github.com/thesaadsalman/thesaadsalman">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thesaadsalman&show_icons=true&line_height=27&count_private=true&theme=nightowl" alt="Saad's GitHub Stats" />
+</a>
+
+<!--
+**thesaadsalman/thesaadsalman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+ 
