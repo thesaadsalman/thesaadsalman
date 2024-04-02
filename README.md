@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## Hello world! 👋
 
-My name is Saad Salman, and I'm a computer science student at Loyola Marymount University with an interest in artificial intelligence and computer graphics. 
+My name is Saad Salman, and I'm an alumnus of Loyola Marymount University with an interest in artificial intelligence and computer graphics. 
 
 ***
 
